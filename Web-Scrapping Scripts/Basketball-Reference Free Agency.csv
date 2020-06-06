@@ -1,290 +1,582 @@
-,Player,Stats,Terms,Year
-0,Stephen Curry,"25.3 Pts, 4.5 Reb, 6.6 Ast",Reportedly agreed to 5-yr/$201M deal with Warriors,2017
-1,Kevin Durant,"25.1 Pts, 8.3 Reb, 4.8 Ast",Reportedly agreed to 2-yr/$53M deal with Warriors,2017
-2,Gordon Hayward,"21.9 Pts, 5.4 Reb, 3.5 Ast",Signed 4-yr/$128M deal with Celtics,2017
-3,Kyle Lowry,"22.4 Pts, 4.8 Reb, 7.0 Ast",Signed 3-yr/$100M deal with Raptors,2017
-4,Otto Porter,"13.4 Pts, 6.4 Reb, 1.5 Ast",Signed 4-yr/$106M deal with Wizards,2017
-5,Jeff Teague,"15.3 Pts, 4.0 Reb, 7.8 Ast",Signed 3-yr/$57M deal with Timberwolves,2017
-6,Blake Griffin,"21.6 Pts, 8.1 Reb, 4.9 Ast",Signed 5-yr/$173M deal with Clippers,2017
-7,Andre Iguodala,"7.6 Pts, 4.0 Reb, 3.4 Ast",Signed 3-yr/$48M deal with Warriors,2017
-8,Danilo Gallinari,"18.2 Pts, 5.2 Reb, 2.1 Ast",Traded to Clippers as part of sign and trade (3-yr/$65M),2017
-9,Pau Gasol,"12.4 Pts, 7.8 Reb, 2.3 Ast",Signed 3-yr/$48M deal with Spurs,2017
-10,Paul Millsap,"18.1 Pts, 7.7 Reb, 3.7 Ast",Signed 3-yr/$90M deal with Nuggets,2017
-11,Mason Plumlee,"10.4 Pts, 7.5 Reb, 3.5 Ast",Signed 3-yr/$41M deal with Nuggets,2017
-12,George Hill,"16.9 Pts, 3.4 Reb, 4.2 Ast",Signed 3-yr/$57M deal with Kings,2017
-13,JaMychal Green,"8.9 Pts, 7.1 Reb, 1.1 Ast",Signed 2-yr/$27M deal with Grizzlies,2017
-15,Dewayne Dedmon,"5.1 Pts, 6.5 Reb, 0.6 Ast",Signed 2-yr/$14M deal with Hawks,2017
-16,Serge Ibaka,"14.8 Pts, 6.8 Reb, 0.9 Ast",Signed 3-yr/$65M deal with Raptors,2017
-17,James Johnson,"12.8 Pts, 4.9 Reb, 3.6 Ast",Signed 4-yr/$60M deal with Heat,2017
-18,Patty Mills,"9.5 Pts, 1.8 Reb, 3.5 Ast",Signed 4-yr/$50M deal with Spurs,2017
-19,Joe Ingles,"7.1 Pts, 3.2 Reb, 2.7 Ast",Signed 4-yr/$52M deal with Jazz,2017
-20,Amir Johnson,"6.5 Pts, 4.6 Reb, 1.8 Ast",Signed 1-yr/$11M deal with 76ers,2017
-21,Tim Hardaway,"14.5 Pts, 2.8 Reb, 2.3 Ast",Signed 4-yr/$71M deal with Knicks,2017
-22,J.J. Redick,"15.0 Pts, 2.2 Reb, 1.4 Ast",Signed 1-yr/$23M deal with 76ers,2017
-23,Zaza Pachulia,"6.1 Pts, 5.9 Reb, 1.9 Ast",Signed 1-yr/$3.5M deal with Warriors,2017
-24,Kentavious Caldwell-Pope,"13.8 Pts, 3.3 Reb, 2.5 Ast",Reportedly agreed to 1-yr/$18M deal with Lakers,2017
-25,Andre Roberson,"6.6 Pts, 5.1 Reb, 1.0 Ast",Signed 3-yr/$30M deal with Thunder,2017
-26,Marreese Speights,"8.7 Pts, 4.5 Reb, 0.8 Ast",Signed deal with Magic,2017
-27,Nenê Hilário,"9.1 Pts, 4.2 Reb, 1.0 Ast",Signed 3-yr/$11M deal with Rockets,2017
-28,Ersan İlyasova,"13.1 Pts, 5.9 Reb, 1.7 Ast",Signed 1-yr/$6M deal with Hawks,2017
-29,Kelly Olynyk,"9.0 Pts, 4.8 Reb, 2.0 Ast",Signed 4-yr/$50M deal with Heat,2017
-30,Vince Carter,"8.0 Pts, 3.1 Reb, 1.8 Ast",Reportedly agreed to 1-yr/$8M deal with Kings,2017
-31,Taj Gibson,"10.8 Pts, 6.2 Reb, 0.9 Ast",Signed 2-yr/$28M deal with Timberwolves,2017
-32,C.J. Miles,"10.7 Pts, 3.0 Reb, 0.6 Ast",Signed 3-yr/$25M deal with Raptors,2017
-33,Nerlens Noel,"8.7 Pts, 5.8 Reb, 1.0 Ast",Signed 1-yr qualifying offer with Mavericks,2017
-34,Darren Collison,"13.2 Pts, 2.2 Reb, 4.6 Ast",Signed 2-yr/$20M deal with Pacers,2017
-35,Jrue Holiday,"15.4 Pts, 3.9 Reb, 7.3 Ast",Signed 5-yr/$126M deal with Pelicans,2017
-36,Nikola Mirotić,"10.6 Pts, 5.5 Reb, 1.1 Ast",Signed 2-yr/$27M deal with Bulls,2017
-37,Kyle Korver,"10.1 Pts, 2.8 Reb, 1.6 Ast",Signed 3-yr/$22M deal with Cavaliers,2017
-38,Willie Reed,"5.3 Pts, 4.7 Reb, 0.4 Ast",Signed 1-yr/$1.5M deal with Clippers,2017
-39,P.J. Tucker,"6.7 Pts, 5.8 Reb, 1.2 Ast",Signed 4-yr/$32M deal with Rockets,2017
-40,JaVale McGee,"6.1 Pts, 3.2 Reb, 0.2 Ast",Signed 1-yr deal with Warriors,2017
-41,Cristiano Felício,"4.8 Pts, 4.7 Reb, 0.6 Ast",Signed 4-yr/$32M deal with Bulls,2017
-42,Mike Muscala,"6.2 Pts, 3.4 Reb, 1.4 Ast",Signed 2-yr/$10M deal with Hawks,2017
-43,Tony Snell,"8.5 Pts, 3.1 Reb, 1.2 Ast",Reportedly agreed to 4-yr/$46M deal with Bucks,2017
-44,Patrick Patterson,"6.8 Pts, 4.5 Reb, 1.2 Ast",Signed 3-yr/$16.4M deal with Thunder,2017
-47,Zach Randolph,"14.1 Pts, 8.2 Reb, 1.7 Ast",Signed 2-yr/$24M deal with Kings,2017
-48,Nick Young,"13.2 Pts, 2.3 Reb, 1.0 Ast",Signed 1-yr/$5.2M deal with Warriors,2017
-50,Luc Mbah a Moute,"6.1 Pts, 2.1 Reb, 0.5 Ast",Signed 1-yr deal with Rockets,2017
-51,Aron Baynes,"4.9 Pts, 4.4 Reb, 0.4 Ast",Signed 1-yr/$4.3M deal with Celtics,2017
-52,Dante Cunningham,"6.6 Pts, 4.2 Reb, 0.6 Ast",Reportedly agreed to 1-yr/$2.3M deal with Pelicans,2017
-53,Manu Ginóbili,"7.5 Pts, 2.3 Reb, 2.7 Ast",Signed 2-yr/$5M deal with Spurs,2017
-55,Derrick Rose,"18.0 Pts, 3.8 Reb, 4.4 Ast",Reportedly agreed to 1-yr minimum salary deal with Cavaliers,2017
-56,Bojan Bogdanović,"13.7 Pts, 3.4 Reb, 1.4 Ast",Signed 2-yr/$21M deal with Pacers,2017
-57,Shabazz Muhammad,"9.9 Pts, 2.8 Reb, 0.4 Ast",Signed 1-yr deal with Timberwolves,2017
-58,Shaun Livingston,"5.1 Pts, 2.0 Reb, 1.8 Ast",Signed 3-yr/$24M deal with Warriors,2017
-61,Dirk Nowitzki,"14.2 Pts, 6.5 Reb, 1.5 Ast",Signed 2-yr/$10M deal with Mavericks,2017
-62,Tarik Black,"5.7 Pts, 5.1 Reb, 0.6 Ast",Signed deal with Rockets,2017
-64,Ian Clark,"6.8 Pts, 1.6 Reb, 1.2 Ast",Signed 1-yr/$1.6M deal with Pelicans,2017
-66,Rajon Rondo,"7.8 Pts, 5.1 Reb, 6.7 Ast",Signed 1-yr/$3.3M deal with Pelicans,2017
-67,Anthony Tolliver,"7.1 Pts, 3.6 Reb, 1.2 Ast",Signed 1-yr/$3.3M deal with Pistons,2017
-70,Jason Terry,"4.1 Pts, 1.4 Reb, 1.3 Ast",Signed 1-yr minimum salary deal with Bucks,2017
-71,Alan Williams,"7.4 Pts, 6.2 Reb, 0.5 Ast",Signed 3-yr/$17M deal with Suns,2017
-76,Raymond Felton,"6.7 Pts, 2.7 Reb, 2.4 Ast",Signed 1-yr deal with Thunder,2017
-79,Rudy Gay,"18.7 Pts, 6.3 Reb, 2.8 Ast",Signed 2-yr/$17M deal with Spurs,2017
-81,Jeff Withey,"2.9 Pts, 2.4 Reb, 0.1 Ast",Signed 1-yr deal with Mavericks,2017
-85,Dion Waiters,"15.8 Pts, 3.3 Reb, 4.3 Ast",Signed 4-yr/$52M deal with Heat,2017
-87,Joffrey Lauvergne,"5.4 Pts, 3.6 Reb, 1.0 Ast",Signed deal with Spurs,2017
-89,Shelvin Mack,"7.8 Pts, 2.3 Reb, 2.8 Ast",Signed 2-yr/$12M deal with Magic,2017
-90,Langston Galloway,"7.9 Pts, 2.1 Reb, 1.3 Ast",Signed 3-yr/$21M deal with Pistons,2017
-96,Jodie Meeks,"9.1 Pts, 2.1 Reb, 1.3 Ast",Signed 2-yr/$7M deal with Wizards,2017
-98,Tyler Zeller,"3.5 Pts, 2.4 Reb, 0.8 Ast",Signed 2-yr deal with Nets,2017
-99,Thomas Robinson,"5.0 Pts, 4.6 Reb, 0.6 Ast",Signed to play in Russia,2017
-105,Tyreke Evans,"10.3 Pts, 3.4 Reb, 3.1 Ast",Signed 1-yr/$3.3M deal with Grizzlies,2017
-110,Gerald Green,"5.6 Pts, 1.8 Reb, 0.7 Ast",Reportedly agreed to deal with Bucks,2017
-115,K.J. McDaniels,"4.2 Pts, 1.7 Reb, 0.3 Ast",Signed 1-yr deal with Raptors,2017
-118,Nick Collison,"1.7 Pts, 1.6 Reb, 0.6 Ast",Signed 1-yr deal with Thunder,2017
-120,Ben McLemore,"8.1 Pts, 2.1 Reb, 0.8 Ast",Signed 2-yr/$10.6M deal with Grizzlies,2017
-138,Marshall Plumlee,"1.9 Pts, 2.4 Reb, 0.5 Ast",Signed 1-yr deal with Clippers,2017
-145,Jordan Mickey,"1.5 Pts, 1.4 Reb, 0.3 Ast",Signed with Heat,2017
-151,Sasha Vujačić,"3.0 Pts, 1.4 Reb, 1.2 Ast",Reportedly reach agreement to play in Italy,2017
-153,Kyle Wiltjer,"0.9 Pts, 0.7 Reb, 0.1 Ast",Signed camp deal with Raptors,2017
-154,Stephen Zimmerman,"1.2 Pts, 1.8 Reb, 0.2 Ast",Reportedly agreed to deal with Lakers,2017
-155,Ron Baker,"4.1 Pts, 1.9 Reb, 2.1 Ast",Signed 2-yr/$8.9M deal with Knicks,2017
-0,LeBron James,"27.5 Pts, 8.6 Reb, 9.1 Ast",Signed 4-yr maximum salary contract ($153.31MM),2018
-1,Nikola Jokić,"18.5 Pts, 10.7 Reb, 6.1 Ast",Signed 5-yr maximum salary contract ($147.71MM),2018
-2,Kevin Durant,"26.4 Pts, 6.8 Reb, 5.4 Ast","Signed 2-yr $61.5MM contract, second year player option",2018
-3,Clint Capela,"13.9 Pts, 10.8 Reb, 0.9 Ast",Signed 5-yr $87.5MM contract,2018
-4,Chris Paul,"18.6 Pts, 5.4 Reb, 7.9 Ast",Signed 4-yr maximum salary contract ($159.73MM),2018
-5,DeAndre Jordan,"12.0 Pts, 15.2 Reb, 1.5 Ast",Signed 1-yr $22.897MM contract,2018
-6,Paul George,"21.9 Pts, 5.7 Reb, 3.3 Ast",Signed 4-yr maximum salary contract ($136.91MM),2018
-7,Derrick Favors,"12.3 Pts, 7.2 Reb, 1.3 Ast","Signed 2-yr $33.8MM contract, second year guaranteed after 7/6/19",2018
-8,Dwight Howard,"16.6 Pts, 12.5 Reb, 1.3 Ast","Signed 2-yr $10.941MM contract, second year player option",2018
-9,Julius Randle,"16.1 Pts, 8.0 Reb, 2.6 Ast","Signed 2-yr $17.714MM contract, second year player option",2018
-10,J.J. Redick,"17.1 Pts, 2.5 Reb, 3.0 Ast",Signed 1-yr $12.25MM contract,2018
-11,Kyle Anderson,"7.9 Pts, 5.4 Reb, 2.7 Ast",Signed 4-yr $37.156MM contract,2018
-12,Will Barton,"15.7 Pts, 5.0 Reb, 4.1 Ast","Signed 4-yr $53MM contract, fourth year player option",2018
-13,Montrezl Harrell,"11.0 Pts, 4.0 Reb, 1.0 Ast",Signed 2-yr $12MM contract,2018
-15,Trevor Ariza,"11.7 Pts, 4.4 Reb, 1.6 Ast",Signed 1-yr $15MM contract,2018
-16,Kentavious Caldwell-Pope,"13.4 Pts, 5.2 Reb, 2.2 Ast",Signed 1-yr $12MM contract,2018
-17,Anthony Tolliver,"8.9 Pts, 3.1 Reb, 1.1 Ast",Signed 1-yr $5.75MM contract,2018
-18,Ed Davis,"5.3 Pts, 7.4 Reb, 0.5 Ast",Signed 1-yr $4.449MM contract,2018
-19,Dirk Nowitzki,"12.0 Pts, 5.7 Reb, 1.6 Ast",Signed 1-yr $5MM contract,2018
-20,Kyle O'Quinn,"7.1 Pts, 6.1 Reb, 2.1 Ast",Signed 1-yr $4.449MM contract,2018
-21,DeMarcus Cousins,"25.2 Pts, 12.9 Reb, 5.4 Ast",Signed 1-yr $5.337MM contract,2018
-22,Jusuf Nurkić,"14.3 Pts, 9.0 Reb, 1.8 Ast","Signed 4-yr $48MM contract, $4MM partial guarantee in 4th year",2018
-23,Fred VanVleet,"8.6 Pts, 2.4 Reb, 3.2 Ast",Signed 2-yr $18MM contract,2018
-24,Wayne Ellington,"11.2 Pts, 2.8 Reb, 1.0 Ast",Signed 1-yr $6.27MM contract,2018
-25,Alex Len,"8.5 Pts, 7.5 Reb, 1.2 Ast",Signed 2-yr $8.51MM contract,2018
-26,Tyreke Evans,"19.4 Pts, 5.1 Reb, 5.2 Ast",Signed 1-yr $12.4MM contract,2018
-27,Amir Johnson,"4.6 Pts, 4.5 Reb, 1.6 Ast",Signed 1-yr minimum salary contract,2018
-28,Joe Harris,"10.8 Pts, 3.3 Reb, 1.6 Ast",Signed 2-yr $16MM contract,2018
-29,Ersan İlyasova,"10.9 Pts, 5.9 Reb, 1.3 Ast","Signed 3-yr $21MM contract, third year not guaranteed",2018
-30,Jeff Green,"10.8 Pts, 3.2 Reb, 1.3 Ast",Signed 1-yr minimum salary contract,2018
-31,Brook Lopez,"13.0 Pts, 4.0 Reb, 1.7 Ast",Signed 1-yr $3.382MM contract,2018
-32,Carmelo Anthony,"16.2 Pts, 5.8 Reb, 1.3 Ast",Signed 1-yr minimum salary contract,2018
-33,Marco Belinelli,"12.1 Pts, 1.9 Reb, 1.9 Ast",Signed 2-yr $12MM contract,2018
-34,Rajon Rondo,"8.3 Pts, 4.0 Reb, 8.2 Ast",Signed 1-yr $9MM contract,2018
-35,David West,"6.8 Pts, 3.3 Reb, 1.9 Ast",Retired,2018
-36,Jonas Jerebko,"5.8 Pts, 3.3 Reb, 0.6 Ast",Signed 1-yr minimum salary contract,2018
-37,Greg Monroe,"10.3 Pts, 6.9 Reb, 2.2 Ast",Signed 1-yr $2.165MM contract,2018
-38,Zaza Pachulia,"5.4 Pts, 4.7 Reb, 1.6 Ast",Signed 1-yr minimum salary contract,2018
-39,Shabazz Napier,"8.7 Pts, 2.3 Reb, 2.0 Ast","Signed 2-yr $3.788MM contract, second year team option",2018
-40,Dāvis Bertāns,"5.9 Pts, 2.0 Reb, 1.0 Ast",Signed 2-yr $14MM contract,2018
-41,James Ennis,"7.1 Pts, 3.1 Reb, 1.0 Ast","Signed 2-yr $3.467MM contract, second year player option",2018
-42,Rudy Gay,"11.5 Pts, 5.1 Reb, 1.3 Ast",Signed 1-yr $10.087MM contract,2018
-43,Aron Baynes,"6.0 Pts, 5.4 Reb, 1.1 Ast",Signed 2-yr $10.647MM contract,2018
-44,Yogi Ferrell,"10.2 Pts, 3.0 Reb, 2.5 Ast","Signed 2-yr $6.15MM contract, second year not guaranteed",2018
-47,Nemanja Bjelica,"6.8 Pts, 4.1 Reb, 1.3 Ast","Signed 3-yr $20.475MM contract, third year not guaranteed",2018
-48,Kevon Looney,"4.0 Pts, 3.3 Reb, 0.6 Ast",Signed 1-yr minimum salary contract,2018
-50,Elfrid Payton,"12.7 Pts, 4.3 Reb, 6.2 Ast",Signed 1-yr $3MM contract,2018
-51,Rodney Hood,"14.7 Pts, 2.8 Reb, 1.6 Ast",Accepted 1-yr $3.47MM qualifying offer,2018
-52,JaVale McGee,"4.8 Pts, 2.6 Reb, 0.5 Ast",Signed 1-yr minimum salary contract,2018
-53,Salah Mejri,"3.5 Pts, 4.0 Reb, 0.6 Ast",Signed 1-yr minimum salary contract,2018
-55,Devin Harris,"8.4 Pts, 1.8 Reb, 2.1 Ast",Signed 1-yr minimum salary contract,2018
-56,Mike Scott,"8.8 Pts, 3.3 Reb, 1.1 Ast",Signed 1-yr $4.321MM contract,2018
-57,Michael Beasley,"13.2 Pts, 5.6 Reb, 1.7 Ast",Signed 1-yr $3.5MM contract,2018
-58,Dante Cunningham,"5.7 Pts, 4.1 Reb, 0.7 Ast",Signed 1-yr $2.487MM contract,2018
-61,Mario Hezonja,"9.6 Pts, 3.7 Reb, 1.4 Ast",Signed 1-yr $6.5MM contract,2018
-62,Doug McDermott,"7.8 Pts, 2.5 Reb, 1.0 Ast",Signed 3-yr $22MM contract,2018
-64,Omri Casspi,"5.7 Pts, 3.8 Reb, 1.0 Ast",Signed 1-yr minimum salary contract,2018
-66,Bryn Forbes,"6.9 Pts, 1.4 Reb, 1.0 Ast",Signed to 2-yr $6MM contract,2018
-67,Gerald Green,"12.1 Pts, 3.2 Reb, 0.6 Ast",Signed 1-yr minimum salary contract,2018
-70,José Calderón,"4.5 Pts, 1.5 Reb, 2.1 Ast",Signed 1-yr minimum salary contract,2018
-71,Treveon Graham,"4.3 Pts, 1.9 Reb, 0.9 Ast",Signed 2-yr minimum salary contract,2018
-76,Noah Vonleh,"4.9 Pts, 5.8 Reb, 0.6 Ast",Signed 1-yr minimum salary contract,2018
-79,Tim Frazier,"3.0 Pts, 1.9 Reb, 3.3 Ast",Signed training camp deal,2018
-81,Tony Parker,"7.7 Pts, 1.7 Reb, 3.5 Ast",Signed 2-yr $10MM contract,2018
-85,Vince Carter,"5.4 Pts, 2.6 Reb, 1.2 Ast",Signed 1-yr minimum salary contract,2018
-87,Jarrett Jack,"7.5 Pts, 3.1 Reb, 5.6 Ast",Signed 1-yr minimum salary contract,2018
-89,Ian Clark,"7.4 Pts, 1.7 Reb, 1.5 Ast",Signed 1-yr minimum salary contract,2018
-90,Dwyane Wade,"11.4 Pts, 3.8 Reb, 3.4 Ast",Signed 1-yr minimum salary contract,2018
-96,Raul Neto,"4.5 Pts, 1.2 Reb, 1.8 Ast",Signed 2-yr $4.3MM contract,2018
-98,Dante Exum,"8.1 Pts, 1.9 Reb, 3.1 Ast",Signed 3-yr $28.8MM contract,2018
-99,Shabazz Muhammad,"5.0 Pts, 1.8 Reb, 0.3 Ast",Signed training camp deal,2018
-105,Danuel House,"6.6 Pts, 3.3 Reb, 1.1 Ast",Signed training camp contract,2018
-110,Glenn Robinson,"4.1 Pts, 1.6 Reb, 0.7 Ast",Signed 2-yr $8.354MM partially guaranteed contract,2018
-115,Luke Kornet,"6.7 Pts, 3.2 Reb, 1.3 Ast",Signed 1-yr $1.619MM contract,2018
-118,Troy Williams,"6.3 Pts, 3.0 Reb, 0.8 Ast","Signed 2-yr $3.158MM contract, second year team option",2018
-120,Derrick Jones,"3.1 Pts, 1.9 Reb, 0.5 Ast",Signed 2-yr minimum salary contract,2018
-138,Isaiah Thomas,"15.2 Pts, 2.1 Reb, 4.8 Ast",Signed 1-yr minimum salary contract,2018
-145,Richard Jefferson,"1.5 Pts, 0.9 Reb, 0.8 Ast",Retired,2018
-151,Alex Poythress,"1.0 Pts, 0.7 Reb, 0.1 Ast",Signed two-way contract,2018
-153,Cole Aldrich,"0.6 Pts, 0.7 Reb, 0.1 Ast",Signed training camp deal,2018
-154,Jamel Artis,"5.1 Pts, 2.5 Reb, 1.2 Ast",Signed two-way contract,2018
-155,Bruno Caboclo,"2.2 Pts, 1.8 Reb, 0.3 Ast",Signed Exhibit 10 contract,2018
-171,Chinanu Onuaku,"4.0 Pts, 4.0 Reb, 1.0 Ast",Signed training camp deal,2018
-176,Charles Cooke,"0.5 Pts, 0.2 Reb, 0.1 Ast",Signed training camp deal,2018
-0,Kevin Durant,"26.0 Pts, 6.4 Reb, 5.9 Ast",Signed 4-yr $164.25M contract with GSW as part of sign-and-trade,2019
-1,Nikola Vučević,"20.8 Pts, 12.0 Reb, 3.8 Ast",Signed 4-yr $100M contract,2019
-2,Kawhi Leonard,"26.6 Pts, 7.3 Reb, 3.3 Ast",Signed 3-yr $103.13M contract,2019
-3,Kyrie Irving,"23.8 Pts, 5.0 Reb, 6.9 Ast",Signed 4-yr $136.49M contract,2019
-4,Jimmy Butler,"18.7 Pts, 5.3 Reb, 4.0 Ast",Signed 4-yr $140.79M contract with PHI as part of sign-and-trade,2019
-5,Al Horford,"13.6 Pts, 6.7 Reb, 4.2 Ast",Signed 4-yr $109M contract,2019
-6,Kemba Walker,"25.6 Pts, 4.4 Reb, 5.9 Ast",Signed 4-yr $140.79M contract with CHO as part of sign-and-trade,2019
-7,Tobias Harris,"20.0 Pts, 7.9 Reb, 2.8 Ast",Signed 5-yr $180M contract,2019
-8,DeAndre Jordan,"11.0 Pts, 13.1 Reb, 2.3 Ast",Signed 4-yr $39.96M contract,2019
-9,Thaddeus Young,"12.6 Pts, 6.5 Reb, 2.5 Ast",Signed 3-yr $43.63M contract,2019
-10,Bojan Bogdanović,"18.0 Pts, 4.1 Reb, 2.0 Ast",Signed 4-yr $73.1M contract,2019
-11,Darren Collison,"11.2 Pts, 3.1 Reb, 6.0 Ast",Retired,2019
-12,Willie Cauley-Stein,"11.9 Pts, 8.4 Reb, 2.4 Ast",Signed 2-yr 4.46M contract,2019
-13,Brook Lopez,"12.5 Pts, 4.9 Reb, 1.2 Ast",Signed 4-yr $52M contract,2019
-15,Khris Middleton,"18.3 Pts, 6.0 Reb, 4.3 Ast",Signed 5-yr $177.5M contract,2019
-16,Julius Randle,"21.4 Pts, 8.7 Reb, 3.1 Ast",Signed 3-yr $62.10M contract,2019
-17,Kevon Looney,"6.3 Pts, 5.2 Reb, 1.5 Ast",Signed 3-yr $15M contract,2019
-18,Danny Green,"10.3 Pts, 4.0 Reb, 1.6 Ast",Signed 2-yr $30M contract,2019
-19,JaVale McGee,"12.0 Pts, 7.5 Reb, 0.7 Ast",Signed 2-yr $8.2M contract,2019
-20,J.J. Redick,"18.1 Pts, 2.4 Reb, 2.7 Ast",Signed 2-yr $26.5M contract,2019
-21,Al-Farouq Aminu,"9.4 Pts, 7.5 Reb, 1.3 Ast",Signed 3-yr $29.16M contract,2019
-22,Ed Davis,"5.8 Pts, 8.6 Reb, 0.8 Ast",Signed 2-yr $9.77M contract,2019
-23,Thomas Bryant,"10.5 Pts, 6.3 Reb, 1.3 Ast",Signed 3-yr $25M contract,2019
-24,Enes Kanter,"13.7 Pts, 9.8 Reb, 1.7 Ast",Signed 2-yr $9.77M contract,2019
-25,Jeremy Lamb,"15.3 Pts, 5.5 Reb, 2.2 Ast",Signed 3-yr $31.5M contract,2019
-26,Klay Thompson,"21.5 Pts, 3.8 Reb, 2.4 Ast",Signed 5-yr $189.9 contract,2019
-27,Taj Gibson,"10.8 Pts, 6.5 Reb, 1.2 Ast",Signed 2-yr $20M contract,2019
-28,D'Angelo Russell,"21.1 Pts, 3.9 Reb, 7.0 Ast",Signed 4-yr $117.32M contract with BRK as part of sign-and-trade,2019
-29,Patrick Beverley,"7.6 Pts, 5.0 Reb, 3.8 Ast",Signed 3-yr $40M contract,2019
-30,Tomáš Satoranský,"8.9 Pts, 3.5 Reb, 5.0 Ast",Signed 3-yr $30M contract with WAS as part of sign-and-trade,2019
-31,Marcus Morris,"13.9 Pts, 6.1 Reb, 1.5 Ast",Signed 1-yr $15M contract,2019
-32,Rudy Gay,"13.7 Pts, 6.8 Reb, 2.6 Ast",Signed 2-yr $32M contract,2019
-33,Richaun Holmes,"8.2 Pts, 4.7 Reb, 0.9 Ast",Signed 2-yr $9.77M contract,2019
-34,Nerlens Noel,"4.9 Pts, 4.2 Reb, 0.6 Ast",Signed 1-yr $2.02M contract,2019
-35,Terrence Ross,"15.1 Pts, 3.5 Reb, 1.7 Ast",Signed 4-yr $54M contract,2019
-36,Delon Wright,"8.7 Pts, 3.5 Reb, 3.3 Ast",Signed 3-yr $28.05M contract with MEM as part of sign-and-trade,2019
-37,Jonas Valančiūnas,"15.6 Pts, 8.6 Reb, 1.4 Ast",Signed 3-yr $45M contract,2019
-38,Kentavious Caldwell-Pope,"11.4 Pts, 2.9 Reb, 1.3 Ast",Signed 2-yr $16.58M contract,2019
-39,Dewayne Dedmon,"10.8 Pts, 7.5 Reb, 1.4 Ast",Signed 3-yr $40M contract,2019
-40,Ryan Arcidiacono,"6.7 Pts, 2.7 Reb, 3.3 Ast",Signed 3-yr $9M contract,2019
-41,Ricky Rubio,"12.7 Pts, 3.6 Reb, 6.1 Ast",Signed 3-yr $51M contract,2019
-42,Harrison Barnes,"16.4 Pts, 4.7 Reb, 1.5 Ast",Signed 4-yr $85M contract,2019
-43,Jeff Green,"12.3 Pts, 4.0 Reb, 1.8 Ast",Signed 1-yr $2.56M contract,2019
-44,Cory Joseph,"6.5 Pts, 3.4 Reb, 3.9 Ast",Signed 3-yr $37.20M contract,2019
-47,Daniel Theis,"5.7 Pts, 3.4 Reb, 1.0 Ast",Signed 2-yr $10M contract,2019
-48,Dorian Finney-Smith,"7.5 Pts, 4.8 Reb, 1.2 Ast",Signed 3-yr $12M contract,2019
-50,Terry Rozier,"9.0 Pts, 3.9 Reb, 2.9 Ast",Signed 3-yr $56.7M contract with BOS as part of sign-and-trade,2019
-51,Noah Vonleh,"8.4 Pts, 7.8 Reb, 1.9 Ast",Signed 1-yr $2M contract,2019
-52,Ivica Zubac,"8.9 Pts, 6.1 Reb, 1.1 Ast",Signed 4-yr $28.51M contract,2019
-53,Reggie Bullock,"11.3 Pts, 2.7 Reb, 2.0 Ast",Signed 2-yr $8.2M contract,2019
-55,Jake Layman,"7.6 Pts, 3.1 Reb, 0.7 Ast",Signed 3-yr $11.28M contract with POR as part of sign-and-trade,2019
-56,Tyus Jones,"6.9 Pts, 2.0 Reb, 4.8 Ast",Signed 3-yr $26.44M offer sheet,2019
-57,Boban Marjanović,"7.3 Pts, 4.6 Reb, 0.9 Ast",Signed 2-yr $7M contract,2019
-58,Derrick Rose,"18.0 Pts, 2.7 Reb, 4.3 Ast",Signed 2-yr $15M contract,2019
-61,T.J. McConnell,"6.4 Pts, 2.3 Reb, 3.4 Ast",Signed 2-yr $7M contract,2019
-62,Khem Birch,"4.8 Pts, 3.8 Reb, 0.8 Ast",Signed 2-yr $6M contracts,2019
-64,Robin Lopez,"9.5 Pts, 3.9 Reb, 1.2 Ast",Signed 2-yr $9.77M contract,2019
-66,Cheick Diallo,"6.0 Pts, 5.2 Reb, 0.5 Ast",Signed 2-yr $3.50M contract,2019
-67,Wayne Ellington,"10.3 Pts, 2.0 Reb, 1.4 Ast",Signed 2-yr $16M contract,2019
-70,Trevor Ariza,"12.5 Pts, 5.4 Reb, 3.7 Ast",Signed 2-yr $25M contract,2019
-71,Mike Muscala,"7.0 Pts, 3.8 Reb, 1.2 Ast",Signed 2-yr $4.31M contract,2019
-76,Kyle Korver,"8.6 Pts, 2.3 Reb, 1.2 Ast",Signed 1-yr $2.56M contract,2019
-79,Kelly Oubre,"15.2 Pts, 4.7 Reb, 1.2 Ast",Signed 2-yr $30M contract,2019
-81,Tyson Chandler,"3.1 Pts, 5.6 Reb, 0.7 Ast",Signed 1-yr $2.56M contract,2019
-85,Shaun Livingston,"4.0 Pts, 1.8 Reb, 1.8 Ast",Retired,2019
-87,Vince Carter,"7.4 Pts, 2.6 Reb, 1.1 Ast",Signed 1-yr $2.56M contract,2019
-89,Gerald Green,"9.2 Pts, 2.5 Reb, 0.5 Ast",Signed 1-yr $2.56M contract,2019
-90,Rodney McGruder,"7.6 Pts, 3.6 Reb, 1.7 Ast",Signed 3-yr $15M contract,2019
-96,Jordan Bell,"3.3 Pts, 2.7 Reb, 1.1 Ast",Signed 1-yr $1.62M contract,2019
-98,Markieff Morris,"9.4 Pts, 4.6 Reb, 1.4 Ast",Signed 2-yr $6.56M contract,2019
-99,Bobby Portis,"14.2 Pts, 8.1 Reb, 1.4 Ast",Signed 2-yr $30.75M contract,2019
-105,Elfrid Payton,"10.6 Pts, 5.2 Reb, 7.6 Ast",Signed 2-yr $16M contract,2019
-110,Luke Kornet,"7.0 Pts, 2.9 Reb, 1.2 Ast",Signed 2-yr $4.5M contract,2019
-115,Rajon Rondo,"9.2 Pts, 5.3 Reb, 8.0 Ast",Signed 2-yr $5.18M contract,2019
-118,Austin Rivers,"8.1 Pts, 2.1 Reb, 2.2 Ast",Signed 2-yr $4.54M contract,2019
-120,Pau Gasol,"3.9 Pts, 4.6 Reb, 1.7 Ast",Signed 1-yr $2.56M contract,2019
-138,Tony Parker,"9.5 Pts, 1.5 Reb, 3.7 Ast",Retired,2019
-145,Glenn Robinson,"4.2 Pts, 1.5 Reb, 0.4 Ast",Signed 2-yr $3.95M contract,2019
-151,Dragan Bender,"5.0 Pts, 4.0 Reb, 1.2 Ast",Signed 2-yr $3.50M contract,2019
-153,Jarell Martin,"2.7 Pts, 1.7 Reb, 0.4 Ast",Signed training camp deal,2019
-154,Patrick McCaw,"2.6 Pts, 1.7 Reb, 1.0 Ast",Signed 2-yr $8M contract,2019
-155,Cameron Payne,"6.3 Pts, 1.8 Reb, 2.7 Ast",Signed 2-yr minimum salary contract,2019
-171,Frank Mason,"5.1 Pts, 1.1 Reb, 2.2 Ast",Signed two-way contract,2019
-176,Tyler Zeller,"7.7 Pts, 4.0 Reb, 0.7 Ast",Signed training camp deal,2019
-186,Tyler Lydon,"0.9 Pts, 0.7 Reb, 0.2 Ast",Signed 2-yr $3.38M contract,2019
-187,Ben McLemore,"3.9 Pts, 0.9 Reb, 0.2 Ast",Signed 2-yr $4.01M contract,2019
-189,Ray Spalding,"3.9 Pts, 3.4 Reb, 0.4 Ast",Signed Exhibit 10 contract,2019
-191,Jaylen Adams,"3.2 Pts, 1.8 Reb, 1.9 Ast",Signed training camp deal,2019
-193,Troy Caupain,"2.5 Pts, 0.8 Reb, 1.0 Ast",Signed Exhibit 10 contract,2019
-194,PJ Dozier,"3.2 Pts, 2.8 Reb, 0.8 Ast",Signed training camp deal,2019
-196,Channing Frye,"3.6 Pts, 1.4 Reb, 0.6 Ast",Retired,2019
-199,B.J. Johnson,"3.3 Pts, 1.1 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-200,Walt Lemon,"14.3 Pts, 4.5 Reb, 5.0 Ast",Signed contract,2019
-202,Davon Reed,"1.2 Pts, 0.6 Reb, 0.3 Ast",Signed Exhibit 10 contract,2019
-203,Edmond Sumner,"2.9 Pts, 1.0 Reb, 0.4 Ast",Signed 3-yr $6.48M contract,2019
-204,Lance Thomas,"4.5 Pts, 2.5 Reb, 0.6 Ast",Signed 1-yr $2.32M contract,2019
-206,Thomas Welsh,"1.6 Pts, 0.4 Reb, 0.5 Ast",Signed training camp deal,2019
-207,C.J. Williams,"2.6 Pts, 0.5 Reb, 0.8 Ast",Signed 1-yr $1.62M contract,2019
-208,DeVaughn Akoon-Purcell,"1.0 Pts, 0.6 Reb, 0.9 Ast",Signed training camp deal,2019
-211,Joe Chealey,"2.0 Pts, 0.0 Reb, 1.0 Ast",Signed Exhibit 10 contract,2019
-212,Chris Chiozza,"0.9 Pts, 0.6 Reb, 0.6 Ast",Signed Exhibit 10 contract,2019
-216,Donte Grantham,"0.0 Pts, 0.0 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-217,Haywood Highsmith,"1.8 Pts, 1.0 Reb, 0.4 Ast",Signed Exhibit 10 contract,2019
-221,Daryl Macon,"3.6 Pts, 1.5 Reb, 0.9 Ast",Signed Exhibit 10 contract,2019
-222,J.P. Macura,"3.0 Pts, 1.5 Reb, 1.0 Ast",Signed Exhibit 10 contract,2019
-223,Yante Maten,"1.0 Pts, 1.5 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-225,Tahjere McCall,"4.0 Pts, 1.0 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-226,Eric Moreland,"1.4 Pts, 4.0 Reb, 0.8 Ast",Signed training camp deal,2019
-227,Justin Patton,"1.7 Pts, 2.0 Reb, 1.0 Ast",Signed 3-yr minimum salary contract,2019
-228,Theo Pinson,"4.5 Pts, 2.0 Reb, 1.2 Ast",Signed 2-yr $3.14M contract,2019
-230,Jordan Sibert,"3.0 Pts, 0.0 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-231,Kobi Simmons,"0.0 Pts, 0.0 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-232,Sindarius Thornwell,"1.0 Pts, 0.7 Reb, 0.3 Ast",Signed 1-yr $1.62M contract,2019
-233,Tyler Ulis,"0.0 Pts, 0.0 Reb, 0.0 Ast",Signed 1-yr $1.62M contract,2019
-238,Daniel Hamilton,"3.0 Pts, 2.5 Reb, 1.2 Ast",Signed Exhibit 10 contract,2019
-239,Andrew Harrison,"3.2 Pts, 1.2 Reb, 1.4 Ast",Signed training camp deal,2019
-240,Udonis Haslem,"2.5 Pts, 2.7 Reb, 0.2 Ast",Signed 1-yr minimum salary contract,2019
-241,Mario Hezonja,"8.8 Pts, 4.1 Reb, 1.5 Ast",Signed 2-yr minimum salary contract,2019
-242,Isaac Humphries,"3.0 Pts, 2.2 Reb, 0.0 Ast",Signed Exhibit 10 contract,2019
-246,Deng Adel,"1.7 Pts, 1.0 Reb, 0.3 Ast",Signed Exhibit 10 contract,2019
-247,Ryan Anderson,"2.5 Pts, 2.2 Reb, 0.8 Ast",Signed 1-yr $2.56M contract,2019
-249,Marquese Chriss,"4.2 Pts, 3.3 Reb, 0.5 Ast",Signed 1-yr $1.67M contract,2019
-256,Isaiah Thomas,"8.1 Pts, 1.1 Reb, 1.9 Ast",Signed 1-yr $2.32M contract,2019
+,Player,New Team,Terms,Year
+0,Kevin Durant,GSW,Signed 2-yr/$54M deal with Warriors,2016
+1,LeBron James,CLE,Signed 3-yr/$100M deal with Cavaliers,2016
+2,Hassan Whiteside,MIA,Signed 4-yr/$98M deal with Heat,2016
+3,DeMar DeRozan,TOR,Signed 5-yr/$139M deal with Raptors,2016
+4,Al Horford,BOS,Signed 4-yr/$113M deal with Celtics,2016
+5,Marvin Williams,CHA,Signed 4-yr/$54.5M deal with Hornets,2016
+6,Andre Drummond,DET,Signed 5-yr/$130M deal with Pistons,2016
+7,Pau Gasol,SAS,Signed 2-yr/$30M deal with Spurs,2016
+8,Dirk Nowitzki,DAL,Signed 2-yr/$50M deal with Mavericks,2016
+9,Dwight Howard,ATL,Signed 3-yr/$70.5M deal with Hawks,2016
+10,Luol Deng,LAL,Signed 4-yr/$72M deal with Lakers,2016
+11,Ian Mahinmi,WAS,Signed 4-yr/$64M deal with Wizards,2016
+12,Zaza Pachulia,GSW,Signed 1-yr/$2.9M deal with Warriors,2016
+13,Bismack Biyombo,ORL,Signed 4-yr/$72M deal with Magic,2016
+14,Evan Fournier,ORL,Signed 5-yr/$85M deal with Magic,2016
+15,J.R. Smith,CLE,Signed 4-yr/$57M deal with Cavaliers,2016
+16,David West,GSW,Signed 1-yr/$1.5M deal with Warriors,2016
+17,Mike Conley,MEM,Signed 5-yr/$153M deal with Grizzlies,2016
+18,Nicolas Batum,CHA,Signed 5-yr/$120M deal with Hornets,2016
+19,Harrison Barnes,DAL,Signed 4-yr/$94M deal with Mavericks,2016
+20,Dwyane Wade,CHI,Signed 2-yr/$47M deal with Bulls,2016
+21,Jared Sullinger,TOR,Signed 1-yr deal with Raptors,2016
+22,Jared Dudley,PHO,Signed 3-yr/$30M deal with Suns,2016
+23,Rajon Rondo,CHI,Signed 2-yr/$28M deal with Bulls,2016
+24,Trevor Booker,BRK,Signed 2-yr/$18M deal with Nets,2016
+25,Allen Crabbe,POR,Signed 4-yr/$75M deal with Trail Blazers,2016
+26,Chandler Parsons,MEM,Signed 4-yr/$94M deal with Grizzlies,2016
+27,Brandon Bass,LAC,Signed 1-yr deal with Clippers,2016
+28,Kent Bazemore,ATL,Signed 4-yr/$70M deal with Hawks,2016
+29,Evan Turner,POR,Signed 4-yr/$70M deal with Blazers,2016
+30,Ryan Anderson,HOU,Signed 4-yr/$80M deal with Rockets,2016
+31,Jordan Hill,MIN,Signed 2-yr/$8M deal with Timberwolves,2016
+32,Courtney Lee,NYK,Signed 4-yr/$48M deal with Knicks,2016
+34,Matthew Dellavedova,MIL,Traded to Bucks via sign-and-trade,2016
+35,Manu Ginóbili,SAS,Signed 1-yr/$14M deal with Spurs,2016
+36,Ramon Sessions,CHA,Signed 2-yr/$12.3M deal with Hornets,2016
+37,Mirza Teletović,MIL,Signed 3-yr/$30M deal with Bucks,2016
+38,Timofey Mozgov,LAL,Signed 4-yr/$64M deal with Lakers,2016
+39,Deron Williams,DAL,Signed 1-yr/$10M deal with Mavericks,2016
+40,Derrick Williams,MIA,Reportedly agreed to 1-yr/$5M deal with Heat,2016
+41,Cole Aldrich,MIN,Signed 3-yr/$22M deal with Timberwolves,2016
+42,Jeremy Lin,BRK,Signed 3-yr/$36M deal with Nets,2016
+43,Boban Marjanović,DET,Signed 3-yr/$21M deal with Pistons,2016
+44,Jamal Crawford,LAC,Signed 3-yr/$42M deal with Clippers,2016
+45,Langston Galloway,NOP,Signed 2-yr/$10M deal with Pelicans,2016
+46,Luis Scola,BRK,Signed 1-yr deal with Nets,2016
+47,Jeff Green,ORL,Signed 1-yr/$15M deal with Magic,2016
+48,Dwight Powell,DAL,Signed 4-yr/$37M deal with Mavericks,2016
+49,David Lee,SAS,Signed 2-yr/$3M deal with Spurs,2016
+50,Maurice Harkless,POR,Reportedly agreed to 4-yr/$40M deal with Trail Blazers,2016
+51,Al Jefferson,IND,Signed 3-yr/$30M deal with Pacers,2016
+52,Anthony Tolliver,SAC,Signed 2-yr/$16M deal with Kings,2016
+53,Arron Afflalo,SAC,Signed 2-yr/$25M deal with Kings,2016
+54,Bradley Beal,WAS,Signed 5-yr/$128M deal with Wizards,2016
+55,Festus Ezeli,POR,Signed 2-yr/$16M deal with Trail Blazers,2016
+56,Raymond Felton,LAC,Signed 1-yr deal with Clippers,2016
+57,Nenê Hilário,HOU,Signed 1-yr/$2.9M deal with Rockets,2016
+58,Richard Jefferson,CLE,Signed 3-yr/$7.5M deal with Cavaliers,2016
+59,Joe Johnson,UTA,Signed 2-yr/$22M deal with Jazz,2016
+60,Jon Leuer,DET,Signed 4-yr/$41M deal with Pistons,2016
+61,Garrett Temple,SAC,Signed 3-yr/$24M deal with Kings,2016
+62,D.J. Augustin,ORL,Signed 4-yr/$29M deal with Magic,2016
+63,Matt Barnes,SAC,Signed 2-yr/$12M deal with Kings,2016
+64,Wesley Johnson,LAC,Signed 3-yr/$18M deal with Clippers,2016
+65,Quincy Acy,DAL,Reportedly agreed to 2-yr deal with Mavericks,2016
+66,Jerryd Bayless,PHI,Signed 3-yr/$27M deal with 76ers,2016
+67,Dewayne Dedmon,SAS,Signed 2-yr/$6M deal with Spurs,2016
+68,Darrell Arthur,DEN,Signed 3-yr/$23M deal with Nuggets,2016
+69,Roy Hibbert,CHA,Signed 1-yr/$5M deal with Hornets,2016
+70,Meyers Leonard,POR,Reportedly agreed to 4-yr/$41M deal with Trail Blazers,2016
+71,Miles Plumlee,MIL,Signed 4-yr/$52M deal with Bucks,2016
+72,Lance Stephenson,NOP,Signed with Pelicans,2016
+73,Leandro Barbosa,PHO,Signed 2-yr/$8M deal with Suns,2016
+74,Jordan Clarkson,LAL,Signed 4-yr/$50M deal with Lakers,2016
+75,Eric Gordon,HOU,Signed 4-yr/$53M deal with Rockets,2016
+76,Solomon Hill,NOP,Signed 4-yr/$48M deal with Pelicans,2016
+77,Dion Waiters,MIA,Signed 2-yr/$6M deal with Heat,2016
+78,Gerald Henderson,PHI,Signed 2-yr/$18M deal with 76ers,2016
+79,Tyler Johnson,MIA,Signed 4-yr/$50M deal with Heat,2016
+80,Brandon Rush,MIN,Signed 1-yr/$3.5M deal with Timberwolves,2016
+81,Alonzo Gee,NOP,Signed 1-yr/$1.4M deal with Pelicans,2016
+82,Austin Rivers,LAC,Signed 3-yr/$35.7M deal with Clippers,2016
+83,E'Twaun Moore,NOP,Signed 4-yr/$34M deal with Pelicans,2016
+84,Jason Smith,WAS,Signed 3-yr/$16M deal with Wizards,2016
+85,Marreese Speights,LAC,Signed 1-yr/$1.4M deal with Clippers,2016
+86,Gerald Green,BOS,Signed 1-yr deal with Celtics,2016
+87,Lance Thomas,NYK,Signed 4-yr/$27.3M deal with Knicks,2016
+88,Marcus Thornton,WAS,Reportedly agreed to 1-yr/$1.3M deal with Wizards,2016
+89,Tyler Zeller,BOS,Signed 2-yr/$8M deal with Celtics,2016
+90,Kris Humphries,ATL,Signed 1-yr/$4M deal with Hawks,2016
+91,Luc Mbah a Moute,LAC,Signed 2-yr/$4.51M deal with Clippers,2016
+92,Andrew Nicholson,WAS,Signed 4-yr/$26M deal with Wizards,2016
+93,Brandon Jennings,NYK,Signed 1-yr/$5M deal with Knicks,2016
+94,Terrence Jones,NOP,Signed 1-yr deal with Pelicans,2016
+95,Pablo Prigioni,HOU,Reportedly agreed to 2-yr deal with Rockets,2016
+96,Jason Terry,MIL,Signed with Bucks,2016
+97,Chase Budinger,BRK,Signed with Nets,2016
+98,Isaiah Canaan,CHI,Signed 2-yr/$2.2M deal with Bulls,2016
+99,Seth Curry,DAL,Signed 2-yr/$6M deal with Mavericks,2016
+101,Ronnie Price,OKC,Signed 2-yr/$5M deal with Thunder,2016
+102,Chris Andersen,CLE,Signed 1-yr deal with Cavaliers,2016
+103,Rasual Butler,MIN,Signed with Timberwolves,2016
+104,James Johnson,MIA,Reportedly agreed to 1-yr/$4M deal with Heat,2016
+105,Ish Smith,DET,Signed 3-yr/$18M deal with Pistons,2016
+106,James Jones,CLE,Signed 1-yr/$1.5M deal with Cavaliers,2016
+108,Willie Reed,MIA,Signed 2-yr deal with Heat,2016
+110,Troy Daniels,MEM,Traded to Grizzlies via sign-and-trade,2016
+111,Joakim Noah,NYK,Signed 4-yr/$72M deal with Knicks,2016
+112,Sasha Vujačić,NYK,Signed 1-yr deal with Knicks,2016
+113,Tim Frazier,NOP,Signed 2-yr/$4.1M deal with Pelicans,2016
+116,Brian Roberts,CHA,Signed 1-yr minimum salary deal with Hornets,2016
+117,Anderson Varejão,GSW,Signed 1-year deal with Warriors,2016
+118,Aaron Brooks,IND,Signed 1-yr/$2.5M deal with Pacers,2016
+119,Ian Clark,GSW,Signed 1-yr deal with Warriors,2016
+120,James Ennis,MEM,Signed 2-yr/$6M deal with Grizzlies,2016
+121,Jarrett Jack,ATL,Reportedly agreed to 1-yr deal with Hawks,2016
+122,Ty Lawson,SAC,Reportedly agreed to 1-yr deal with Kings,2016
+124,Wayne Ellington,MIA,Reportedly agreed to 2-yr/$12M deal with Heat,2016
+126,James Michael McAdoo,GSW,Signed 1-yr/$980K deal with Warriors,2016
+127,Tarik Black,LAL,Signed 2-yr/$12.85M deal with Lakers,2016
+128,Markel Brown,CLE,Signed with Cavaliers,2016
+129,P.J. Hairston,HOU,Reportedly agreed to deal with Rockets,2016
+131,Thomas Robinson,LAL,Signed with Lakers,2016
+132,Randy Foye,BRK,Signed 1-yr/$2.5M deal with Nets,2016
+133,Udonis Haslem,MIA,Signed 1-yr/$4M deal with Heat,2016
+135,Beno Udrih,MIA,Reportedly agreed to 1-yr deal with Heat,2016
+136,Alan Anderson,LAC,Signed 1-yr deal with Clippers,2016
+137,Ray McCallum,DET,Reportedly agreed to 1-yr deal with Pistons,2016
+138,Mike Miller,DEN,Signed 2-yr/$5M deal with Nuggets,2016
+140,Robert Sacre,NOP,Reportedly agreed to training camp deal with Pelicans,2016
+141,Christian Wood,CHA,Signed 2-yr deal with Hornets,2016
+144,Anthony Bennett,BRK,Signed 2-yr deal with Nets,2016
+145,Cory Jefferson,CLE,Signed with Cavaliers,2016
+147,Ryan Kelly,ATL,Signed with Hawks,2016
+148,Steve Novak,MIL,Signed with Bucks,2016
+149,Damjan Rudež,ORL,Signed with Magic,2016
+150,Metta World Peace,LAL,Signed with Lakers,2016
+152,Joe Harris,BRK,Signed 2-yr deal with Nets,2016
+154,Eric Moreland,CLE,Signed with Cavaliers,2016
+156,Lou Amundson,NYK,Signed with Knicks,2016
+158,Chris Copeland,NOP,Signed with Pelicans,2016
+159,Marcelo Huertas,LAL,Reportedly agreed to 2-yr deal with Lakers,2016
+161,Phil Pressey,GSW,Reportedly agreed to training camp deal with Warriors,2016
+162,Cleanthony Early,NYK,Re-signed with Knicks,2016
+163,Kevin Séraphin,IND,Signed 2-yr/$3.6M deal with Pacers,2016
+164,Greivis Vásquez,BRK,Signed 1-yr deal with Nets,2016
+165,Justin Hamilton,BRK,Signed 2-yr/$6M deal with Nets,2016
+166,Sergio Rodríguez,PHI,Signed 1-yr/$6.8M deal with 76ers,2016
+167,Stephen Curry,GSW,Reportedly agreed to 5-yr/$201M deal with Warriors,2017
+168,Kevin Durant,GSW,Reportedly agreed to 2-yr/$53M deal with Warriors,2017
+169,Gordon Hayward,BOS,Signed 4-yr/$128M deal with Celtics,2017
+170,Kyle Lowry,TOR,Signed 3-yr/$100M deal with Raptors,2017
+171,Otto Porter,WAS,Signed 4-yr/$106M deal with Wizards,2017
+172,Jeff Teague,MIN,Signed 3-yr/$57M deal with Timberwolves,2017
+173,Blake Griffin,LAC,Signed 5-yr/$173M deal with Clippers,2017
+174,Andre Iguodala,GSW,Signed 3-yr/$48M deal with Warriors,2017
+175,Danilo Gallinari,LAC,Traded to Clippers as part of sign and trade (3-yr/$65M),2017
+176,Pau Gasol,SAS,Signed 3-yr/$48M deal with Spurs,2017
+177,Paul Millsap,DEN,Signed 3-yr/$90M deal with Nuggets,2017
+178,Mason Plumlee,DEN,Signed 3-yr/$41M deal with Nuggets,2017
+179,George Hill,SAC,Signed 3-yr/$57M deal with Kings,2017
+180,JaMychal Green,MEM,Signed 2-yr/$27M deal with Grizzlies,2017
+182,Dewayne Dedmon,ATL,Signed 2-yr/$14M deal with Hawks,2017
+183,Serge Ibaka,TOR,Signed 3-yr/$65M deal with Raptors,2017
+184,James Johnson,MIA,Signed 4-yr/$60M deal with Heat,2017
+185,Patty Mills,SAS,Signed 4-yr/$50M deal with Spurs,2017
+186,Joe Ingles,UTA,Signed 4-yr/$52M deal with Jazz,2017
+187,Amir Johnson,PHI,Signed 1-yr/$11M deal with 76ers,2017
+188,Tim Hardaway,NYK,Signed 4-yr/$71M deal with Knicks,2017
+189,J.J. Redick,PHI,Signed 1-yr/$23M deal with 76ers,2017
+190,Zaza Pachulia,GSW,Signed 1-yr/$3.5M deal with Warriors,2017
+191,Kentavious Caldwell-Pope,LAL,Reportedly agreed to 1-yr/$18M deal with Lakers,2017
+192,Andre Roberson,OKC,Signed 3-yr/$30M deal with Thunder,2017
+193,Marreese Speights,ORL,Signed deal with Magic,2017
+194,Nenê Hilário,HOU,Signed 3-yr/$11M deal with Rockets,2017
+195,Ersan İlyasova,ATL,Signed 1-yr/$6M deal with Hawks,2017
+196,Kelly Olynyk,MIA,Signed 4-yr/$50M deal with Heat,2017
+197,Vince Carter,SAC,Reportedly agreed to 1-yr/$8M deal with Kings,2017
+198,Taj Gibson,MIN,Signed 2-yr/$28M deal with Timberwolves,2017
+199,C.J. Miles,TOR,Signed 3-yr/$25M deal with Raptors,2017
+200,Nerlens Noel,DAL,Signed 1-yr qualifying offer with Mavericks,2017
+201,Darren Collison,IND,Signed 2-yr/$20M deal with Pacers,2017
+202,Jrue Holiday,NOP,Signed 5-yr/$126M deal with Pelicans,2017
+203,Nikola Mirotić,CHI,Signed 2-yr/$27M deal with Bulls,2017
+204,Kyle Korver,CLE,Signed 3-yr/$22M deal with Cavaliers,2017
+205,Willie Reed,LAC,Signed 1-yr/$1.5M deal with Clippers,2017
+206,P.J. Tucker,HOU,Signed 4-yr/$32M deal with Rockets,2017
+207,JaVale McGee,GSW,Signed 1-yr deal with Warriors,2017
+208,Cristiano Felício,CHI,Signed 4-yr/$32M deal with Bulls,2017
+209,Mike Muscala,ATL,Signed 2-yr/$10M deal with Hawks,2017
+210,Tony Snell,MIL,Reportedly agreed to 4-yr/$46M deal with Bucks,2017
+211,Patrick Patterson,OKC,Signed 3-yr/$16.4M deal with Thunder,2017
+212,Thabo Sefolosha,UTA,Signed 2-yr/$10.5M deal with Jazz,2017
+214,Zach Randolph,SAC,Signed 2-yr/$24M deal with Kings,2017
+215,Nick Young,GSW,Signed 1-yr/$5.2M deal with Warriors,2017
+216,Tony Allen,NOP,Signed 1-yr deal with Pelicans,2017
+217,Luc Mbah a Moute,HOU,Signed 1-yr deal with Rockets,2017
+218,Aron Baynes,BOS,Signed 1-yr/$4.3M deal with Celtics,2017
+219,Dante Cunningham,NOP,Reportedly agreed to 1-yr/$2.3M deal with Pelicans,2017
+220,Manu Ginóbili,SAS,Signed 2-yr/$5M deal with Spurs,2017
+222,Derrick Rose,CLE,Reportedly agreed to 1-yr minimum salary deal with Cavaliers,2017
+223,Bojan Bogdanović,IND,Signed 2-yr/$21M deal with Pacers,2017
+224,Shabazz Muhammad,MIN,Signed 1-yr deal with Timberwolves,2017
+225,Shaun Livingston,GSW,Signed 3-yr/$24M deal with Warriors,2017
+226,David West,GSW,Signed 1-yr deal with Warriors,2017
+227,Justin Holiday,CHI,Signed 2-yr/$9M deal with Bulls,2017
+228,Dirk Nowitzki,DAL,Signed 2-yr/$10M deal with Mavericks,2017
+229,Tarik Black,HOU,Signed deal with Rockets,2017
+231,Ian Clark,NOP,Signed 1-yr/$1.6M deal with Pelicans,2017
+233,Rajon Rondo,NOP,Signed 1-yr/$3.3M deal with Pelicans,2017
+234,Anthony Tolliver,DET,Signed 1-yr/$3.3M deal with Pistons,2017
+237,Jason Terry,MIL,Signed 1-yr minimum salary deal with Bucks,2017
+238,Alan Williams,PHO,Signed 3-yr/$17M deal with Suns,2017
+241,Jonathon Simmons,ORL,Signed 3-yr/$20M deal with Magic,2017
+242,Jamal Crawford,MIN,Signed deal with Timberwolves,2017
+243,Raymond Felton,OKC,Signed 1-yr deal with Thunder,2017
+244,Luke Babbitt,ATL,Signed 1-yr deal with Hawks,2017
+245,Michael Beasley,NYK,Signed deal with Knicks,2017
+246,Rudy Gay,SAS,Signed 2-yr/$17M deal with Spurs,2017
+248,Jeff Withey,DAL,Signed 1-yr deal with Mavericks,2017
+252,Dion Waiters,MIA,Signed 4-yr/$52M deal with Heat,2017
+254,Joffrey Lauvergne,SAS,Signed deal with Spurs,2017
+255,Arron Afflalo,ORL,Signed 1-yr deal with Magic,2017
+256,Shelvin Mack,ORL,Signed 2-yr/$12M deal with Magic,2017
+257,Langston Galloway,DET,Signed 3-yr/$21M deal with Pistons,2017
+259,Anthony Morrow,POR,Signed 1-yr deal with Trail Blazers,2017
+263,Jodie Meeks,WAS,Signed 2-yr/$7M deal with Wizards,2017
+264,Reggie Bullock,DET,Signed 2-yr/$5M deal with Pistons,2017
+265,Tyler Zeller,BRK,Signed 2-yr deal with Nets,2017
+267,Ramon Sessions,NYK,Signed 1-yr deal with Knicks,2017
+271,Andrew Bogut,LAL,Reportedly agreed to 1-yr deal with Lakers,2017
+272,Tyreke Evans,MEM,Signed 1-yr/$3.3M deal with Grizzlies,2017
+274,Jeff Green,CLE,Signed 1-yr/$2.3M deal with Cavaliers,2017
+277,Gerald Green,MIL,Reportedly agreed to deal with Bucks,2017
+280,Omri Casspi,GSW,Signed 1-yr minimum deal with Warriors,2017
+282,K.J. McDaniels,TOR,Signed 1-yr deal with Raptors,2017
+285,Nick Collison,OKC,Signed 1-yr deal with Thunder,2017
+286,Tyler Ennis,LAL,Signed 2-yr deal with Lakers,2017
+287,Ben McLemore,MEM,Signed 2-yr/$10.6M deal with Grizzlies,2017
+289,Brandon Rush,MIL,Signed with Bucks,2017
+290,Troy Williams,HOU,Signed 3-yr deal with Rockets,2017
+291,Aaron Brooks,MIN,Signed with Timberwolves,2017
+292,José Calderón,CLE,Signed 1-yr minimum deal with Cavaliers,2017
+294,Alex Poythress,IND,Signed 2-way contract with Pacers,2017
+295,Briante Weber,LAL,Signed deal with Lakers,2017
+299,Michael Carter-Williams,CHO,Signed 1-yr/$2.7M deal with Hornets,2017
+301,Udonis Haslem,MIA,Signed 1-yr deal with Heat,2017
+304,Adreian Payne,ORL,Signed 2-way contract with Magic,2017
+305,Marshall Plumlee,LAC,Signed 1-yr deal with Clippers,2017
+307,Jarrod Uthoff,IND,Reportedly agreed to deal with Pacers,2017
+309,Bobby Brown,HOU,Reportedly agreed to 1-yr deal with Rockets,2017
+310,Demetrius Jackson,HOU,Signed 2-way deal with Rockets,2017
+312,Jordan Mickey,MIA,Signed with Heat,2017
+315,Damjan Rudež,ORL,Re-signed with Magic,2017
+316,Wayne Selden,MEM,Signed 2-yr minimum deal with Grizzlies,2017
+320,Kyle Wiltjer,TOR,Signed camp deal with Raptors,2017
+321,Stephen Zimmerman,LAL,Reportedly agreed to deal with Lakers,2017
+322,Ron Baker,NYK,Signed 2-yr/$8.9M deal with Knicks,2017
+325,Mike Scott,WAS,Signed 1-yr deal for veterans minimum with Wizards,2017
+328,C.J. Wilcox,POR,Signed two-way deal with Trail Blazers,2017
+332,Mario Chalmers,MEM,Signed 1-yr deal with Grizzlies,2017
+334,Shane Larkin,BOS,Signed 1-yr deal with Celtics,2017
+335,Darius Miller,NOP,Signed 2-yr deal with Pelicans,2017
+337,Damien Wilkins,IND,Reportedly agreed to 1-yr deal with Pacers,2017
+338,LeBron James,LAL,Signed 4-yr maximum salary contract ($153.31MM),2018
+339,Nikola Jokić,DEN,Signed 5-yr maximum salary contract ($147.71MM),2018
+340,Kevin Durant,GSW,"Signed 2-yr $61.5MM contract, second year player option",2018
+341,Clint Capela,HOU,Signed 5-yr $87.5MM contract,2018
+342,Chris Paul,HOU,Signed 4-yr maximum salary contract ($159.73MM),2018
+343,DeAndre Jordan,DAL,Signed 1-yr $22.897MM contract,2018
+344,Paul George,OKC,Signed 4-yr maximum salary contract ($136.91MM),2018
+345,Derrick Favors,UTA,"Signed 2-yr $33.8MM contract, second year guaranteed after 7/6/19",2018
+346,Dwight Howard,WAS,"Signed 2-yr $10.941MM contract, second year player option",2018
+347,Julius Randle,NOP,"Signed 2-yr $17.714MM contract, second year player option",2018
+348,J.J. Redick,PHI,Signed 1-yr $12.25MM contract,2018
+349,Kyle Anderson,MEM,Signed 4-yr $37.156MM contract,2018
+350,Will Barton,DEN,"Signed 4-yr $53MM contract, fourth year player option",2018
+351,Montrezl Harrell,LAC,Signed 2-yr $12MM contract,2018
+352,Jerami Grant,OKC,"Signed 3-yr $27.346MM contract, third year is player option",2018
+353,Trevor Ariza,PHO,Signed 1-yr $15MM contract,2018
+354,Kentavious Caldwell-Pope,LAL,Signed 1-yr $12MM contract,2018
+355,Anthony Tolliver,MIN,Signed 1-yr $5.75MM contract,2018
+356,Ed Davis,BRK,Signed 1-yr $4.449MM contract,2018
+357,Dirk Nowitzki,DAL,Signed 1-yr $5MM contract,2018
+358,Kyle O'Quinn,IND,Signed 1-yr $4.449MM contract,2018
+359,DeMarcus Cousins,GSW,Signed 1-yr $5.337MM contract,2018
+360,Jusuf Nurkić,POR,"Signed 4-yr $48MM contract, $4MM partial guarantee in 4th year",2018
+361,Fred VanVleet,TOR,Signed 2-yr $18MM contract,2018
+362,Wayne Ellington,MIA,Signed 1-yr $6.27MM contract,2018
+363,Alex Len,ATL,Signed 2-yr $8.51MM contract,2018
+364,Tyreke Evans,IND,Signed 1-yr $12.4MM contract,2018
+365,Amir Johnson,PHI,Signed 1-yr minimum salary contract,2018
+366,Joe Harris,BRK,Signed 2-yr $16MM contract,2018
+367,Ersan İlyasova,MIL,"Signed 3-yr $21MM contract, third year not guaranteed",2018
+368,Jeff Green,WAS,Signed 1-yr minimum salary contract,2018
+369,Brook Lopez,MIL,Signed 1-yr $3.382MM contract,2018
+370,Carmelo Anthony,HOU,Signed 1-yr minimum salary contract,2018
+371,Marco Belinelli,SAS,Signed 2-yr $12MM contract,2018
+372,Rajon Rondo,LAL,Signed 1-yr $9MM contract,2018
+374,Jonas Jerebko,GSW,Signed 1-yr minimum salary contract,2018
+375,Greg Monroe,TOR,Signed 1-yr $2.165MM contract,2018
+376,Zaza Pachulia,DET,Signed 1-yr minimum salary contract,2018
+377,Shabazz Napier,BRK,"Signed 2-yr $3.788MM contract, second year team option",2018
+378,Dāvis Bertāns,SAS,Signed 2-yr $14MM contract,2018
+379,James Ennis,HOU,"Signed 2-yr $3.467MM contract, second year player option",2018
+380,Rudy Gay,SAS,Signed 1-yr $10.087MM contract,2018
+381,Aron Baynes,BOS,Signed 2-yr $10.647MM contract,2018
+382,Yogi Ferrell,SAC,"Signed 2-yr $6.15MM contract, second year not guaranteed",2018
+384,Aaron Gordon,ORL,Signed 4-yr $76MM contract,2018
+385,Nemanja Bjelica,SAC,"Signed 3-yr $20.475MM contract, third year not guaranteed",2018
+386,Kevon Looney,GSW,Signed 1-yr minimum salary contract,2018
+387,Luc Mbah a Moute,LAC,Signed 1-yr $4.321MM contract,2018
+388,Elfrid Payton,NOP,Signed 1-yr $3MM contract,2018
+389,Rodney Hood,CLE,Accepted 1-yr $3.47MM qualifying offer,2018
+390,JaVale McGee,LAL,Signed 1-yr minimum salary contract,2018
+391,Salah Mejri,DAL,Signed 1-yr minimum salary contract,2018
+392,Pat Connaughton,MIL,"Reportedly agreed to 2-yr $3.364MM contract, second year not guaranteed",2018
+393,Devin Harris,DAL,Signed 1-yr minimum salary contract,2018
+394,Mike Scott,LAC,Signed 1-yr $4.321MM contract,2018
+395,Michael Beasley,LAL,Signed 1-yr $3.5MM contract,2018
+396,Dante Cunningham,SAS,Signed 1-yr $2.487MM contract,2018
+397,David Nwaba,CLE,Signed 1-yr minimum salary contract,2018
+399,Mario Hezonja,NYK,Signed 1-yr $6.5MM contract,2018
+400,Doug McDermott,IND,Signed 3-yr $22MM contract,2018
+401,Eric Moreland,TOR,Signed Exhibit 10 contract,2018
+402,Omri Casspi,MEM,Signed 1-yr minimum salary contract,2018
+403,Raymond Felton,OKC,Signed 1-yr minimum salary contract,2018
+404,Bryn Forbes,SAS,Signed to 2-yr $6MM contract,2018
+405,Gerald Green,HOU,Signed 1-yr minimum salary contract,2018
+406,Shelvin Mack,MEM,Signed 1-yr minimum salary contract,2018
+407,Marcus Smart,BOS,Signed 4-yr $52MM contract,2018
+408,José Calderón,DET,Signed 1-yr minimum salary contract,2018
+409,Treveon Graham,BRK,Signed 2-yr minimum salary contract,2018
+410,Lance Stephenson,LAL,Signed 1-yr $4.449MM contract,2018
+414,Noah Vonleh,NYK,Signed 1-yr minimum salary contract,2018
+416,Channing Frye,CLE,Signed 1-yr minimum salary contract,2018
+417,Tim Frazier,MIL,Signed training camp deal,2018
+419,Tony Parker,CHO,Signed 2-yr $10MM contract,2018
+422,Nerlens Noel,OKC,Signed 2-yr minimum salary contract,2018
+423,Vince Carter,ATL,Signed 1-yr minimum salary contract,2018
+424,Tyler Cavanaugh,UTA,Signed two-way contract,2018
+425,Jarrett Jack,NOP,Signed 1-yr minimum salary contract,2018
+426,Jabari Parker,CHI,"Signed 2-yr $40MM contract, second year team option",2018
+427,Ian Clark,NOP,Signed 1-yr minimum salary contract,2018
+428,Dwyane Wade,MIA,Signed 1-yr minimum salary contract,2018
+433,Michael Carter-Williams,HOU,Signed 1-yr minimum salary contract,2018
+434,Raul Neto,UTA,Signed 2-yr $4.3MM contract,2018
+436,Dante Exum,UTA,Signed 3-yr $28.8MM contract,2018
+437,Shabazz Muhammad,MIL,Signed training camp deal,2018
+441,Isaiah Canaan,PHO,Signed 1-yr minimum salary contract,2018
+443,Danuel House,GSW,Signed training camp contract,2018
+447,Jahlil Okafor,NOP,"Signed 2-yr contract, first year partially guaranteed, second year team option",2018
+448,Glenn Robinson,DET,Signed 2-yr $8.354MM partially guaranteed contract,2018
+450,Isaiah Taylor,CLE,Signed 1-yr contract,2018
+451,Kyle Collinsworth,TOR,Signed training camp deal,2018
+453,Luke Kornet,NYK,Signed 1-yr $1.619MM contract,2018
+454,DeAndre Liggins,MIA,Signed training camp deal,2018
+456,Troy Williams,NOP,"Signed 2-yr $3.158MM contract, second year team option",2018
+458,Derrick Jones,MIA,Signed 2-yr minimum salary contract,2018
+461,Zach LaVine,CHI,Signed 4-yr $78MM contract,2018
+466,Nik Stauskas,POR,Signed 1-yr minimum salary contract,2018
+468,Lorenzo Brown,TOR,Signed 1-yr minimum salary contract,2018
+471,Marcus Georges-Hunt,BOS,Signed training camp deal,2018
+474,Chris McCullough,DET,Signed training camp deal,2018
+475,Gary Payton,POR,Signed training camp deal,2018
+476,Isaiah Thomas,DEN,Signed 1-yr minimum salary contract,2018
+478,Okaro White,SAS,Signed Exhibit 10 contract,2018
+481,Daniel Hamilton,ATL,Signed 1-yr minimum salary contract,2018
+485,Omari Johnson,IND,Signed training camp deal,2018
+488,Alfonzo McKinnie,GSW,Signed training camp deal,2018
+489,Alex Poythress,ATL,Signed two-way contract,2018
+491,Cole Aldrich,ATL,Signed training camp deal,2018
+492,Jamel Artis,SAC,Signed two-way contract,2018
+493,Bruno Caboclo,HOU,Signed Exhibit 10 contract,2018
+494,Antonius Cleveland,DAL,Signed two-way contract,2018
+495,Luol Deng,MIN,Signed 1-yr minimum salary contract,2018
+496,R.J. Hunter,ATL,Signed contract (details unknown),2018
+498,Georges Niang,UTA,"Signed 3-yr $4.942MM contract, first year guaranteed",2018
+502,Alan Williams,BRK,Signed two-way contract,2018
+504,Udonis Haslem,MIA,Signed 1-yr minimum salary contract,2018
+509,Chinanu Onuaku,POR,Signed training camp deal,2018
+513,Avery Bradley,LAC,Reportedly agreed to 2-yr $24.96MM contract,2018
+514,Charles Cooke,MIA,Signed training camp deal,2018
+515,Derrick Rose,MIN,Signed 1-yr minimum salary contract,2018
+516,Tyler Ulis,GSW,Signed Exhibit 10 contract,2018
+518,Kay Felder,TOR,Signed 1-yr minimum salary contract,2018
+520,Seth Curry,POR,Signed 1-yr $2.795MM contract,2018
+521,Amile Jefferson,ORL,Signed two-way contract,2018
+523,Malik Newman,MIA,Signed 1-yr minimum salary contract,2018
+524,Kevin Durant,BRK,Signed 4-yr $164.25M contract with GSW as part of sign-and-trade,2019
+525,Nikola Vučević,ORL,Signed 4-yr $100M contract,2019
+526,Kawhi Leonard,LAC,Signed 3-yr $103.13M contract,2019
+527,Kyrie Irving,BRK,Signed 4-yr $136.49M contract,2019
+528,Jimmy Butler,MIA,Signed 4-yr $140.79M contract with PHI as part of sign-and-trade,2019
+529,Al Horford,PHI,Signed 4-yr $109M contract,2019
+530,Kemba Walker,BOS,Signed 4-yr $140.79M contract with CHO as part of sign-and-trade,2019
+531,Tobias Harris,PHI,Signed 5-yr $180M contract,2019
+532,DeAndre Jordan,BRK,Signed 4-yr $39.96M contract,2019
+533,Thaddeus Young,CHI,Signed 3-yr $43.63M contract,2019
+534,Bojan Bogdanović,UTA,Signed 4-yr $73.1M contract,2019
+536,Willie Cauley-Stein,GSW,Signed 2-yr 4.46M contract,2019
+537,Brook Lopez,MIL,Signed 4-yr $52M contract,2019
+538,Malcolm Brogdon,IND,Signed 4-yr $85M contract with MIL as part of sign-and-trade,2019
+539,Khris Middleton,MIL,Signed 5-yr $177.5M contract,2019
+540,Julius Randle,NYK,Signed 3-yr $62.10M contract,2019
+541,Kevon Looney,GSW,Signed 3-yr $15M contract,2019
+542,Danny Green,LAL,Signed 2-yr $30M contract,2019
+543,JaVale McGee,LAL,Signed 2-yr $8.2M contract,2019
+544,J.J. Redick,NOP,Signed 2-yr $26.5M contract,2019
+545,Al-Farouq Aminu,ORL,Signed 3-yr $29.16M contract,2019
+546,Ed Davis,UTA,Signed 2-yr $9.77M contract,2019
+547,Thomas Bryant,WAS,Signed 3-yr $25M contract,2019
+548,Enes Kanter,BOS,Signed 2-yr $9.77M contract,2019
+549,Jeremy Lamb,IND,Signed 3-yr $31.5M contract,2019
+550,Klay Thompson,GSW,Signed 5-yr $189.9 contract,2019
+551,Taj Gibson,NYK,Signed 2-yr $20M contract,2019
+552,D'Angelo Russell,GSW,Signed 4-yr $117.32M contract with BRK as part of sign-and-trade,2019
+553,Patrick Beverley,LAC,Signed 3-yr $40M contract,2019
+554,Tomáš Satoranský,CHI,Signed 3-yr $30M contract with WAS as part of sign-and-trade,2019
+555,Marcus Morris,NYK,Signed 1-yr $15M contract,2019
+556,Rudy Gay,SAS,Signed 2-yr $32M contract,2019
+557,Richaun Holmes,SAC,Signed 2-yr $9.77M contract,2019
+558,Nerlens Noel,OKC,Signed 1-yr $2.02M contract,2019
+559,Terrence Ross,ORL,Signed 4-yr $54M contract,2019
+560,Delon Wright,DAL,Signed 3-yr $28.05M contract with MEM as part of sign-and-trade,2019
+561,Jonas Valančiūnas,MEM,Signed 3-yr $45M contract,2019
+562,Kentavious Caldwell-Pope,LAL,Signed 2-yr $16.58M contract,2019
+563,Dewayne Dedmon,SAC,Signed 3-yr $40M contract,2019
+564,Ryan Arcidiacono,CHI,Signed 3-yr $9M contract,2019
+565,Ricky Rubio,PHO,Signed 3-yr $51M contract,2019
+566,Harrison Barnes,SAC,Signed 4-yr $85M contract,2019
+567,Jeff Green,UTA,Signed 1-yr $2.56M contract,2019
+568,Cory Joseph,SAC,Signed 3-yr $37.20M contract,2019
+569,Maxi Kleber,DAL,Signed 4-yr $35.90M contract,2019
+571,Daniel Theis,BOS,Signed 2-yr $10M contract,2019
+572,Dorian Finney-Smith,DAL,Signed 3-yr $12M contract,2019
+574,Terry Rozier,CHO,Signed 3-yr $56.7M contract with BOS as part of sign-and-trade,2019
+575,Noah Vonleh,MIN,Signed 1-yr $2M contract,2019
+576,Ivica Zubac,LAC,Signed 4-yr $28.51M contract,2019
+577,Reggie Bullock,NYK,Signed 2-yr $8.2M contract,2019
+578,DeMarre Carroll,SAS,Signed 3-yr $20.65M contract with BRK as part of sign-and-trade,2019
+579,Jake Layman,MIN,Signed 3-yr $11.28M contract with POR as part of sign-and-trade,2019
+580,Tyus Jones,MEM,Signed 3-yr $26.44M offer sheet,2019
+581,Boban Marjanović,DAL,Signed 2-yr $7M contract,2019
+582,Derrick Rose,DET,Signed 2-yr $15M contract,2019
+584,JaMychal Green,LAC,Signed 2-yr $9.77M contract,2019
+585,T.J. McConnell,IND,Signed 2-yr $7M contract,2019
+586,Khem Birch,ORL,Signed 2-yr $6M contracts,2019
+587,George Hill,MIL,Signed 3-yr $28.77M contract,2019
+588,Robin Lopez,MIL,Signed 2-yr $9.77M contract,2019
+589,Wesley Matthews,MIL,Signed 2-yr $5.25M contract,2019
+590,Cheick Diallo,PHO,Signed 2-yr $3.50M contract,2019
+591,Wayne Ellington,NYK,Signed 2-yr $16M contract,2019
+592,James Ennis,PHI,Signed 2-yr $4.01M contract,2019
+593,Rodney Hood,POR,Signed 2-yr $11.72M contract,2019
+594,Trevor Ariza,SAC,Signed 2-yr $25M contract,2019
+595,Mike Muscala,OKC,Signed 2-yr $4.31M contract,2019
+596,DeMarcus Cousins,LAL,Signed 1-yr $3.5M contract,2019
+597,Seth Curry,DAL,Signed 4-yr $32M contract,2019
+599,Danuel House,HOU,Signed 3-yr $11.15M contract,2019
+600,Kyle Korver,MIL,Signed 1-yr $2.56M contract,2019
+603,Kelly Oubre,PHO,Signed 2-yr $30M contract,2019
+604,Garrett Temple,BRK,Signed 2-yr $9.77M contract,2019
+605,Tyson Chandler,HOU,Signed 1-yr $2.56M contract,2019
+606,Justin Holiday,IND,Signed 1-yr $4.76M contract,2019
+608,Tim Frazier,DET,Signed 1-yr $1.88M contract,2019
+610,Trey Burke,PHI,Signed 1-yr $2.02M contract,2019
+611,Vince Carter,ATL,Signed 1-yr $2.56M contract,2019
+613,Gerald Green,HOU,Signed 1-yr $2.56M contract,2019
+614,Rodney McGruder,LAC,Signed 3-yr $15M contract,2019
+615,Quinn Cook,LAL,Signed 2-yr $6M contract,2019
+616,Jared Dudley,LAL,Signed 1-yr $2.56M contract,2019
+617,Frank Kaminsky,PHO,Signed 2-yr $9.77M contract,2019
+619,Ish Smith,WAS,Signed 2-yr $12M contract,2019
+620,Jordan Bell,MIN,Signed 1-yr $1.62M contract,2019
+621,Darius Miller,NOP,Signed 2-yr $14.25M contract,2019
+622,Markieff Morris,DET,Signed 2-yr $6.56M contract,2019
+623,Bobby Portis,NYK,Signed 2-yr $30.75M contract,2019
+624,Mike Scott,PHI,Signed 2-yr $9.80M contract,2019
+626,Alec Burks,GSW,Signed 1-yr $2.32M contract,2019
+627,Wilson Chandler,BRK,Signed 1-yr $2.56M contract,2019
+629,Elfrid Payton,NYK,Signed 2-yr $16M contract,2019
+630,Thabo Sefolosha,HOU,Signed 1-yr $2.56M contract,2019
+632,Shaquille Harrison,CHI,Signed 1-yr $0.89M contract,2019
+633,Nenê Hilário,HOU,Signed 2-yr $20M contract with Rockets,2019
+634,Luke Kornet,CHI,Signed 2-yr $4.5M contract,2019
+635,David Nwaba,BRK,Signed 2-yr $3.50M contract,2019
+636,Jabari Parker,ATL,Signed 2-yr $13M contract,2019
+639,Rajon Rondo,LAL,Signed 2-yr $5.18M contract,2019
+640,Rondae Hollis-Jefferson,TOR,Signed 1-yr $2.50M contract,2019
+641,Trey Lyles,SAS,Signed 2-yr $11M contract,2019
+642,Austin Rivers,HOU,Signed 2-yr $4.54M contract,2019
+643,Anthony Tolliver,POR,Signed 1-yr $2.56M contract,2019
+644,Pau Gasol,POR,Signed 1-yr $2.56M contract,2019
+646,Furkan Korkmaz,PHI,Signed 2-yr $3.38M contract,2019
+649,Raul Neto,PHI,Signed 1-yr $1.73M contract,2019
+650,Patrick Patterson,LAC,Signed 1-yr $2.33M contract,2019
+653,J.J. Barea,DAL,Signed 1-yr $2.56M contract,2019
+655,Alex Caruso,LAL,Signed 2-yr $5.5M contract,2019
+657,Kyle O'Quinn,PHI,Signed 1-yr $2.02M contract,2019
+658,Brad Wanamaker,BOS,Signed 1-yr $1.44M contract,2019
+663,Michael Carter-Williams,ORL,Signed 1-yr $2.02M contract,2019
+665,Emmanuel Mudiay,UTA,Signed 1-yr $1.73M contract,2019
+669,Glenn Robinson,GSW,Signed 2-yr $3.95M contract,2019
+673,Dwight Howard,LAL,Signed 1-yr $2.56M contract,2019
+675,Dragan Bender,MIL,Signed 2-yr $3.50M contract,2019
+676,Stanley Johnson,TOR,Signed 2-yr $7.42M contract,2019
+677,Jarell Martin,CLE,Signed training camp deal,2019
+678,Patrick McCaw,TOR,Signed 2-yr $8M contract,2019
+679,Cameron Payne,TOR,Signed 2-yr minimum salary contract,2019
+681,JaKarr Sampson,IND,Signed 1-yr $1.73M contract,2019
+683,Justin Anderson,WAS,Signed 1-yr $1.73M contract,2019
+685,Henry Ellenson,BRK,Signed two-way contract,2019
+686,Cameron Reynolds,MIL,Signed two-way contract,2019
+689,Jaron Blossomgame,HOU,Signed training camp deal,2019
+691,Avery Bradley,LAL,Signed 2-yr $9.77M contract,2019
+693,Troy Daniels,LAL,Signed 1-yr $2.02M contract,2019
+694,Jalen Jones,WAS,Signed Exhibit 10 deal,2019
+695,Frank Mason,MIL,Signed two-way contract,2019
+698,Devin Robinson,TOR,Signed 1-yr $1.62M contract,2019
+700,Tyler Zeller,DEN,Signed training camp deal,2019
+705,Marcus Derrickson,ATL,Signed Exhibit 10 contract,2019
+706,Demetrius Jackson,LAL,Signed Exhibit 10 contract,2019
+709,Timothé Luwawu-Cabarrot,CLE,Signed 1-yr $1.67M contract,2019
+710,Tyler Lydon,SAC,Signed 2-yr $3.38M contract,2019
+711,Ben McLemore,HOU,Signed 2-yr $4.01M contract,2019
+713,Ray Spalding,HOU,Signed Exhibit 10 contract,2019
+715,Jaylen Adams,MIL,Signed training camp deal,2019
+717,Troy Caupain,POR,Signed Exhibit 10 contract,2019
+718,PJ Dozier,DEN,Signed training camp deal,2019
+723,B.J. Johnson,ORL,Signed Exhibit 10 contract,2019
+724,Walt Lemon,IND,Signed contract,2019
+726,Davon Reed,MIA,Signed Exhibit 10 contract,2019
+727,Edmond Sumner,IND,Signed 3-yr $6.48M contract,2019
+728,Lance Thomas,BRK,Signed 1-yr $2.32M contract,2019
+730,Thomas Welsh,CHO,Signed training camp deal,2019
+731,C.J. Williams,BRK,Signed 1-yr $1.62M contract,2019
+732,DeVaughn Akoon-Purcell,OKC,Signed training camp deal,2019
+735,Joe Chealey,CHO,Signed Exhibit 10 contract,2019
+736,Chris Chiozza,WAS,Signed Exhibit 10 contract,2019
+740,Donte Grantham,LAC,Signed Exhibit 10 contract,2019
+741,Haywood Highsmith,PHI,Signed Exhibit 10 contract,2019
+745,Daryl Macon,MIA,Signed Exhibit 10 contract,2019
+746,J.P. Macura,CLE,Signed Exhibit 10 contract,2019
+747,Yante Maten,BOS,Signed Exhibit 10 contract,2019
+749,Tahjere McCall,ATL,Signed Exhibit 10 contract,2019
+750,Eric Moreland,OKC,Signed training camp deal,2019
+751,Justin Patton,OKC,Signed 3-yr minimum salary contract,2019
+752,Theo Pinson,BRK,Signed 2-yr $3.14M contract,2019
+754,Jordan Sibert,ATL,Signed Exhibit 10 contract,2019
+755,Kobi Simmons,CHO,Signed Exhibit 10 contract,2019
+756,Sindarius Thornwell,CLE,Signed 1-yr $1.62M contract,2019
+757,Tyler Ulis,SAC,Signed 1-yr $1.62M contract,2019
+762,Daniel Hamilton,CLE,Signed Exhibit 10 contract,2019
+763,Andrew Harrison,GSW,Signed training camp deal,2019
+764,Udonis Haslem,MIA,Signed 1-yr minimum salary contract,2019
+765,Mario Hezonja,POR,Signed 2-yr minimum salary contract,2019
+766,Isaac Humphries,ORL,Signed Exhibit 10 contract,2019
+770,Deng Adel,BRK,Signed Exhibit 10 contract,2019
+771,Ryan Anderson,HOU,Signed 1-yr $2.56M contract,2019
+773,Marquese Chriss,GSW,Signed 1-yr $1.67M contract,2019
+780,Isaiah Thomas,WAS,Signed 1-yr $2.32M contract,2019
+782,Thanasis Antetokounmpo,MIL,Signed 2-yr $3.14M contract,2019
+783,Anthony Bennett,HOU,Signed 1-yr $1.73M contract,2019
+784,Trevon Bluiett,UTA,Signed Exhibit 10 contract,2019
+785,Amida Brimah,IND,Signed Exhibit 10 contract,2019
+786,Kyle Collinsworth,UTA,Signed contract,2019
+788,Milton Doyle,CHI,Signed training camp deal,2019
+790,Abdul Gaddy,OKC,Signed training camp deal,2019
+791,Kaiser Gates,BOS,Signed training camp deal,2019
+793,Myke Henry,OKC,Signed training camp deal,2019
+794,Joe Johnson,DET,Signed 1-yr $2.56M contract,2019
+795,Terry Larrier,LAC,Signed Exhibit 10 contract,2019
+796,Devyn Marble,GSW,Signed Exhibit 10 contract,2019
+797,Elijah Millsap,DEN,Signed training camp deal,2019
+801,London Perrantes,POR,Signed Exhibit 10 contract,2019
+804,Kristaps Porziņģis,DAL,Signed 5-yr $158.25M contract,2019
+806,David Stockton,LAL,Signed Exhibit 10 contract,2019
+807,Isaiah Taylor,TOR,Signed 2-yr $3.38M contract,2019
+808,Derrick Walton,LAC,Signed Exhibit 10 contract,2019
+810,C.J. Wilcox,IND,Signed Exhibit 10 contract,2019
